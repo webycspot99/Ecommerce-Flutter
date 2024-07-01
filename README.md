@@ -261,5 +261,3 @@ This project includes a documentation website that can be found here:
 9. How to write unit tests for `AsyncNotifier` subclasses
 10. Wrap Up
 11. Conclusion & Next Steps
-
-### [LICENSE: MIT](LICENSE.md)
